@@ -1,11 +1,12 @@
 # Repositories
 ## Projects
-**Reunion Photo Manager**<br>
-**Member Activation Plan**<br>
 **Coastal Elder Scheduler**<br>
-**Nexus**<br>
+**Genealogy Document Parser**<br>
+**Member Activation Plan**<br>
 **Movie Picker**<br>
-**Genealogy Document Parser**
+**Nexus**<br>
+**Reunion Photo Manager**<br>
+
 ## STEM Build Kits
 **Arlektra**<br>
 **CircuitMess**<br>
