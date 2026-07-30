@@ -1,0 +1,53 @@
+{
+  "folders": [
+    { "name": "Research Document Parser", "path": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\genealogy-document-parser" }
+  ],
+  "settings": {
+    // Editor basics
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.rulers": [120],
+    "editor.renderWhitespace": "boundary",
+    "editor.minimap.enabled": false,
+
+    // File hygiene
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.exclude": {
+      "**/.git": true,
+      "**/bin": true,
+      "**/obj": true,
+      "**/__pycache__": true,
+      "**/node_modules": true
+    },
+    "files.watcherExclude": {
+      "**/bin/**": true,
+      "**/obj/**": true,
+      "**/node_modules/**": true
+    },
+
+    // Search — keep noise out of Ctrl+Shift+F results
+    "search.exclude": {
+      "**/bin": true,
+      "**/obj": true,
+      "**/node_modules": true,
+      "**/*.min.js": true
+    },
+
+    // Git
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+
+    // PowerShell (your main language)
+    "powershell.codeFormatting.preset": "OTBS",
+    "powershell.integratedConsole.showOnStartup": false,
+
+    // Python
+    "python.analysis.typeCheckingMode": "basic",
+
+    // C#
+    "dotnet.defaultSolution": "disable"
+  }
+}
